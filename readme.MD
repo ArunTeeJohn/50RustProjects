@@ -1,0 +1,1 @@
+50 Rust projects to better learn the language
